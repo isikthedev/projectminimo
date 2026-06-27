@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep *)",
+      "PowerShell(npx shadcn@latest add textarea -y)",
+      "PowerShell(npm install *)"
+    ]
+  }
+}
